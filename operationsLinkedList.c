@@ -1,4 +1,4 @@
-//this file demonstrates basic operations on linked list using clanguage
+//this file demonstrates basic operations on linked list using c language
 #include <stdio.h>
 #include <stdlib.h>
 struct list
